@@ -17,6 +17,6 @@ public class BookController {
     })
     @GetMapping
     public String hello(){
-        return "Hello Bookstroe Manager";
+        return "Hello Bookstroe Manager 2";
     }
 }
